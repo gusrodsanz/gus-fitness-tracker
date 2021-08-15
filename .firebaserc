@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gus-fitness-tracker": {
+      "hosting": {
+        "gus-fitness-tracker": [
+          "gus-fitness-tracker"
+        ]
+      }
+    }
+  }
+}
